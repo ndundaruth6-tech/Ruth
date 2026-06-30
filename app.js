@@ -3,8 +3,8 @@
 // ==========================
 
 const SUPABASE_URL =
-"https://tzygochlibduxubsblzd.supabase.co";
-
+"https://o";
+zygochlibduxubsblzd.supabase.c
 const SUPABASE_ANON_KEY =
 "sb_publishable_GVnQsJLt8IzlyOUAL48Kmg_kdLxPzxH";
 
